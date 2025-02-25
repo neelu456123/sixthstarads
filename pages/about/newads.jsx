@@ -83,10 +83,10 @@ export default function ads() {
       </div>
       <div>
         <h1>
-        Hey Sixthstarians 👋🏻, Welcome to Sixthstar
+        IT Infrastructure made Hassle Free
         </h1> 
-        <p>GulfGig is the Gulf region's premier platform, designed to bring freelancers and clients together in a seamless, secure, and efficient way.
-Whether you're a skilled professional or a business in need of expert solutions, GulfGig is your gateway to opportunities.</p>
+        <p>Sixthstar is the premier platform, designed to bring freelancers and clients together in a seamless, secure, and efficient way.
+Whether you're a skilled professional or a business in need of expert solutions, Sixthstar is your gateway to opportunities.</p>
       </div>
       {/* <div className='newads-banner-button'> 
       <h2>
@@ -111,9 +111,9 @@ Whether you're a skilled professional or a business in need of expert solutions,
 
 
      <div className='newads-innovative-section'>
-      <h2>Innovative Concepts Tailored for the Gulf
+      <h2>Innovative Concepts Tailored for the Sixthstar
       </h2>
-      <p>At GulfGig, we understand the unique dynamics of the Gulf region. Our platform is built to cater to the specific <br/> needs of freelancers and businesses in this region, ensuring:
+      <p>At Sixthstar, we understand the unique dynamics of the Sixthstar region. Our platform is built to cater to the specific <br/> needs of freelancers and businesses in this region, ensuring:
 
 </p>
      </div>
@@ -154,7 +154,7 @@ Whether you're a skilled professional or a business in need of expert solutions,
         <div className="max-w-full">
 
           <h2 className="max-w-sm md:max-w-lg  text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
-          The GulfGig Advantage
+          The Sixthstar Advantage
           </h2>
           <p className="mt-4 max-w-[36rem] text-justify  text-lg text-neutral-200">
           Custom Solutions: Find the best talent for your projects, whether short-term gigs or long-term collaborations.
@@ -181,7 +181,7 @@ Milestone-Based Payments: Secure and transparent payment processes for every pro
           Your Security is Our Priority
           </h2>
           <p className="mt-4 max-w-[36rem] text-justify  text-lg text-neutral-200">
-          At GulfGig, we prioritize the safety and security of every user:
+          At Sixthstar, we prioritize the safety and security of every user:
 
 All profiles are thoroughly verified to ensure authenticity.
 Advanced data encryption protects your personal and financial information.
@@ -203,7 +203,7 @@ Contact details are securely managed to maintain confidentiality within the plat
       <h2>Bridging the Gap Between Freelancers and Clients
 
       </h2>
-      <p>To eliminate the hurdles that freelancers and clients face in finding each other. GulfGig connects<br/> skilled professionals with businesses, creating opportunities and fostering success on both sides.
+      <p>To eliminate the hurdles that freelancers and clients face in finding each other. Sixthstar connects<br/> skilled professionals with businesses, creating opportunities and fostering success on both sides.
 
 </p>
 
